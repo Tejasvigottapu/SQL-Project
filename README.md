@@ -6,7 +6,7 @@ SQL: Used to query the database and extract insights.
 # Analysis Questions Answered
 This project aimed to answer the following key business questions:
 
-What are the sales trends over time?
+1. What are the sales trends over time?
 Monthly and yearly sales trends.
 Identified periods of peak sales.
 Who are the top customers, and what are their purchasing patterns?
