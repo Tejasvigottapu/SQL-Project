@@ -7,19 +7,19 @@ SQL: Used to query the database and extract insights.
 This project aimed to answer the following key business questions:
 
 1. What are the sales trends over time?
-#Monthly and yearly sales trends.
-#Identified periods of peak sales.
+* Monthly and yearly sales trends.
+* Identified periods of peak sales.
 2. Who are the top customers, and what are their purchasing patterns?
-Analyzed purchasing behavior based on customer demographics and purchasing frequency.
-Which products contribute most to sales, and how can inventory be optimized?
-Found top-selling products and categories.
-Provided insights for better stock management.
+* Analyzed purchasing behavior based on customer demographics and purchasing frequency.
+3. Which products contribute most to sales, and how can inventory be optimized?
+* Found top-selling products and categories.
+* Provided insights for better stock management.
 # Objectives
-Business Growth Insights: The goal was to answer key business questions to help the store understand its growth trajectory.
-Sales and Customer Behavior Analysis: Uncovered trends in sales, customer purchasing patterns, and demographics.
-Inventory Management: Provided insights to optimize inventory levels and prevent stockouts or overstocking.
+1. Business Growth Insights: The goal was to answer key business questions to help the store understand its growth trajectory.
+2. Sales and Customer Behavior Analysis: Uncovered trends in sales, customer purchasing patterns, and demographics.
+3. Inventory Management: Provided insights to optimize inventory levels and prevent stockouts or overstocking.
 
 # Key Findings
-Sales Trends: The analysis revealed that sales consistently increased during holiday seasons, suggesting that promotions during this period would be beneficial.
-Customer Behavior: A small percentage of customers were responsible for a large portion of sales, indicating a need to focus on customer retention strategies for high-value customers.
-Inventory Management: Certain product categories had high turnover rates, while others remained stagnant, indicating a need for better inventory optimization to avoid stockouts and overstock situations.
+1. Sales Trends: The analysis revealed that sales consistently increased during holiday seasons, suggesting that promotions during this period would be beneficial.
+2. Customer Behavior: A small percentage of customers were responsible for a large portion of sales, indicating a need to focus on customer retention strategies for high-value customers.
+3. Inventory Management: Certain product categories had high turnover rates, while others remained stagnant, indicating a need for better inventory optimization to avoid stockouts and overstock situations.
