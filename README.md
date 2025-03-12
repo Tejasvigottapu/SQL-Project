@@ -7,9 +7,9 @@ SQL: Used to query the database and extract insights.
 This project aimed to answer the following key business questions:
 
 1. What are the sales trends over time?
-Monthly and yearly sales trends.
-Identified periods of peak sales.
-Who are the top customers, and what are their purchasing patterns?
+#Monthly and yearly sales trends.
+#Identified periods of peak sales.
+2. Who are the top customers, and what are their purchasing patterns?
 Analyzed purchasing behavior based on customer demographics and purchasing frequency.
 Which products contribute most to sales, and how can inventory be optimized?
 Found top-selling products and categories.
